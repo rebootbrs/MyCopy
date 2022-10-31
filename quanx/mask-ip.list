@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,easemob.com,IP
 DOMAIN-SUFFIX,it.10086.cn,IP 
 DOMAIN-SUFFIX,jegotrip.com.cn.w.cdngslb.com,IP 
 DOMAIN-SUFFIX,jegotrip.com.cn.w.kunlungr.com,IP
-IP-CIDR,18.163.85/60,IP
+# IP-CIDR,18.163.85/60,IP
 
 # ======= 百度贴吧 ======= #
 DOMAIN,tieba.baidu.com,IP 
