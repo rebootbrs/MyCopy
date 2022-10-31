@@ -10,6 +10,11 @@ DOMAIN,api.weibo.com,IP
 DOMAIN-SUFFIX,weibocdn.com,IP 
 DOMAIN-KEYWORD,weibo,IP 
 
+# ======= 无忧行 ======= #
+DOMAIN-SUFFIX,jegotrip.com.cn,IP 
+DOMAIN-SUFFIX,jegotrip.com.cn.w.cdngslb.com,IP 
+DOMAIN-SUFFIX,jegotrip.com.cn.w.kunlungr.com,IP
+
 # ======= 百度贴吧 ======= #
 DOMAIN,tieba.baidu.com,IP 
 DOMAIN,tbmsg.baidu.com,IP 
